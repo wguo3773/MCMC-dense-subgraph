@@ -1,14 +1,15 @@
 # MCMC-dense-subgraph
 Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification 
 
-Background
+Background- 
 
 Dense subgraph identification is crucial for: 
 Functional modules in biological systems.
 Cohesive groups in social networks.
 Critical paths in technological infrastructures.
 
-Challenges
+Challenges- 
+
 SM Algorithm:
 Unable to locate large subgraphs, making it ineffective for identifying dense subgraphs.
 
