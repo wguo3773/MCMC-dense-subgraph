@@ -26,9 +26,6 @@ SAA Outperformed SM and SA in:
 - Number of iterations to locate the densest subgraph 
 - Percentage of successful clique identification after 10,000 iterations 
 - Computation time
-
 ![image](https://github.com/user-attachments/assets/9631ae91-3de0-4972-969c-a020dc40d9e4)
 
 
-Conclusion
-The promising performance of the SAA algorithm offers a robust tool for dissecting complex systems 
