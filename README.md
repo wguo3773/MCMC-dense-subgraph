@@ -17,6 +17,8 @@ SA Algorithm:
 Combines simulated annealing with efficient Markov chain moves.
 Cannot guarantee global optima without a logarithmic cooling schedule.
 
+Our work- 
+
 To this end, we applied the Simulated Annealing Algorithm (SAA):
 Combines simulated annealing with the stochastic approximation Monte Carlo algorithm.
 
