@@ -1,6 +1,8 @@
 # MCMC-dense-subgraph
 ## **Performance Analysis of Monte Carlo Algorithms in Dense Subgraph Identification** 
 
+**Paper** - https://github.com/wguo3773/MCMC-dense-subgraph/blob/main/2405.11688v1.pdf 
+
 ### **Background-** 
 
 Dense subgraph identification is crucial for: 
@@ -19,7 +21,7 @@ Cannot guarantee global optima without a logarithmic cooling schedule.
 
 ### **Our work-** 
 
-To this end, we applied the Simulated Annealing Algorithm (SAA):
+To this end, we applied the **Simulated Annealing Algorithm (SAA):**
 Combines simulated annealing with the stochastic approximation Monte Carlo algorithm.
 
 **Performance Evaluation:**
@@ -30,4 +32,4 @@ Benchmarked against SM and SA algorithms using simulated graphs with embedded cl
 - Percentage of successful clique identification after 10,000 iterations 
 - Computation time
 ![image](https://github.com/user-attachments/assets/9631ae91-3de0-4972-969c-a020dc40d9e4)
-**Paper** - https://github.com/wguo3773/MCMC-dense-subgraph/blob/main/2405.11688v1.pdf 
+
